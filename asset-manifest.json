@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/capturedinthebay/static/js/main.8489e2fa.js",
+    "main.js": "/capturedinthebay/static/js/main.a36c9541.js",
     "index.html": "/capturedinthebay/index.html",
-    "main.8489e2fa.js.map": "/capturedinthebay/static/js/main.8489e2fa.js.map"
+    "main.a36c9541.js.map": "/capturedinthebay/static/js/main.a36c9541.js.map"
   },
   "entrypoints": [
-    "static/js/main.8489e2fa.js"
+    "static/js/main.a36c9541.js"
   ]
 }
