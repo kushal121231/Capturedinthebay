@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io.capturedinthebay/static/js/main.ba4cbe9a.js",
-    "index.html": "/github.io.capturedinthebay/index.html",
-    "main.ba4cbe9a.js.map": "/github.io.capturedinthebay/static/js/main.ba4cbe9a.js.map"
+    "main.js": "/capturedinthebay/static/js/main.ba4cbe9a.js",
+    "index.html": "/capturedinthebay/index.html",
+    "main.ba4cbe9a.js.map": "/capturedinthebay/static/js/main.ba4cbe9a.js.map"
   },
   "entrypoints": [
     "static/js/main.ba4cbe9a.js"
